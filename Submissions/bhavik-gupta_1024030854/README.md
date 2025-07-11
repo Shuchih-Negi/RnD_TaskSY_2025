@@ -46,12 +46,11 @@ It’s not perfect — and that’s fine. I’m still learning, but this was fun
 
 ---
 
-## 📝 Final Note
+## 🎯 Final Note
 
-This was built from scratch without using any pre-made templates or generators.  
-If something feels off — it’s mine 😅  
-If something feels nice — still mine 😎
+This portfolio is more than a task — it’s a snapshot of where I am right now as a developer and creator.
+I’ve had fun building it, experimenting with design, and pushing myself a little further.
+If it made you scroll, smile, or get curious — that’s a win in my book.
 
-Thanks for checking it out!
-
+Thanks for your time!
 – Bhavik
